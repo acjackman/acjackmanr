@@ -1,6 +1,6 @@
 Package: acjackmanr
 Title: Personal Package of Adam Jackman
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("Adam", "Jackman", email = "adam@acjackman.com", role = c("aut", "cre"))
 Description: Personal functions of Adam Jackman
 Depends:
