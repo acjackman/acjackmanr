@@ -1,0 +1,10 @@
+Package: acjackmanr
+Title: Personal Package of Adam Jackman
+Version: 0.0.1
+Authors@R: person("Adam", "Jackman", email = "adam@acjackman.com", role = c("aut", "cre"))
+Description: Personal functions of Adam Jackman
+Depends:
+    R (>= 3.2.0)
+License: MIT
+LazyData: true
+RoxygenNote: 5.0.0
