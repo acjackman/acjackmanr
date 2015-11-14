@@ -22,6 +22,7 @@ st <- function(name){
 
 
 #' @rdname timing
+#' @export
 et <- function(name){
     assign(paste0("et_",name),proc.time(),parent.frame())
 }
