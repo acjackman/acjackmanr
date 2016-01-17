@@ -2,5 +2,6 @@
 
 export(ct)
 export(et)
+export(password_from_file)
 export(st)
 export(trim)
