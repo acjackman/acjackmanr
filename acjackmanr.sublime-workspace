@@ -1,0 +1,1774 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rmdb",
+				"rm_db_id"
+			],
+			[
+				"assert",
+				"assert_is_numeric"
+			],
+			[
+				"db",
+				"db_credentials"
+			],
+			[
+				"option",
+				"optional_fields"
+			],
+			[
+				"if",
+				"ifelse	{base}"
+			],
+			[
+				"ens",
+				"ensure_that"
+			],
+			[
+				"expect",
+				"expect_equal"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"milum",
+				"MilumAnalysis_dbs"
+			],
+			[
+				"show_a",
+				"show_warn"
+			],
+			[
+				"test",
+				"test_that"
+			],
+			[
+				"qlg",
+				"qlg_loud"
+			],
+			[
+				"NULL",
+				"db_prep_nulls"
+			],
+			[
+				"etrac",
+				"extract_cred"
+			],
+			[
+				"inher",
+				"inheritParams"
+			],
+			[
+				"cred",
+				"credentials"
+			],
+			[
+				"reg_d",
+				"reg_db"
+			],
+			[
+				"discon",
+				"disconnect_con"
+			],
+			[
+				"connect",
+				"connection"
+			],
+			[
+				"retur",
+				"return_pos"
+			],
+			[
+				"matchs",
+				"matchs"
+			],
+			[
+				"curl",
+				"cur_list"
+			],
+			[
+				"db_cre",
+				"db_cred"
+			],
+			[
+				"force",
+				"force_log"
+			],
+			[
+				"dbna",
+				"db_name"
+			],
+			[
+				"pass",
+				"pass_all_tests"
+			],
+			[
+				"err",
+				"error_report"
+			],
+			[
+				"sh",
+				"shrt_n"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"resul",
+				"results_summary"
+			],
+			[
+				"dbch",
+				"dbchk_results"
+			],
+			[
+				"len",
+				"length	{base}"
+			],
+			[
+				".db",
+				".db_name"
+			],
+			[
+				"short",
+				"short_code"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"numerr",
+				"num_errors"
+			],
+			[
+				"single",
+				"single_line"
+			],
+			[
+				".",
+				".cred"
+			],
+			[
+				"custoer",
+				"customer_item_id"
+			],
+			[
+				"Tag",
+				"tag_id"
+			],
+			[
+				"que",
+				"quietly"
+			],
+			[
+				"functi",
+				"functions"
+			],
+			[
+				"req",
+				"req_tbls"
+			],
+			[
+				"item",
+				"item_number"
+			],
+			[
+				"item_",
+				"item_info"
+			],
+			[
+				"genget",
+				"gen_shlf_get"
+			],
+			[
+				"epc",
+				"epc_code"
+			],
+			[
+				"not",
+				"not_found"
+			],
+			[
+				"epcd",
+				"epc_codes"
+			],
+			[
+				"genge",
+				"gen_shlf_get"
+			],
+			[
+				"gen",
+				"gen_trdn_test"
+			],
+			[
+				"quanti",
+				"quantities"
+			],
+			[
+				"Custo",
+				"Customer_Items"
+			],
+			[
+				"order_qua",
+				"order_quantity"
+			],
+			[
+				"customer",
+				"customer_item_id"
+			],
+			[
+				"qty",
+				"qtys"
+			],
+			[
+				"gens",
+				"gen_shlf_lid"
+			],
+			[
+				"ntq",
+				"ntg_qty_desired"
+			],
+			[
+				"ntgq",
+				"ntg_qty_desired"
+			],
+			[
+				"genshlf",
+				"gen_shelf_get"
+			],
+			[
+				"TESTL",
+				"TEST_LINEN"
+			],
+			[
+				"shelf_",
+				"shelf_name"
+			],
+			[
+				"shelf",
+				"shelf_name"
+			],
+			[
+				"TES",
+				"TEST_SHELVES"
+			],
+			[
+				"TY",
+				"TYPE_CUST"
+			],
+			[
+				"stk_",
+				"stk_tgd"
+			],
+			[
+				"gen_crea",
+				"gen_create_location"
+			],
+			[
+				"shelfid",
+				"shelf_ids"
+			],
+			[
+				".f",
+				".force_log"
+			],
+			[
+				"location",
+				"location_id"
+			],
+			[
+				"gencre",
+				"gen_create_shelf"
+			],
+			[
+				"TEST_",
+				"TEST_LOCATIONS"
+			],
+			[
+				"length",
+				"length.out"
+			],
+			[
+				"linen",
+				"linen_id"
+			],
+			[
+				"repalc",
+				"replacement_cost"
+			],
+			[
+				"itm_",
+				"item_number"
+			],
+			[
+				"nxtinv",
+				"nxt_invoice_id"
+			],
+			[
+				"nxt",
+				"nxt_contents_id"
+			],
+			[
+				"nxt_iv",
+				"nxt_invoice_id"
+			],
+			[
+				"Customer",
+				"Customer_Items"
+			],
+			[
+				"oder_",
+				"order_quant"
+			],
+			[
+				"gen_pl",
+				"gen_plt_ntg_rmv"
+			],
+			[
+				"stock",
+				"stock_tagged"
+			],
+			[
+				"expected",
+				"expected_cell"
+			],
+			[
+				"in",
+				"invoice"
+			],
+			[
+				"scale_cl",
+				"scale_color_brewer	{ggplot2}"
+			],
+			[
+				"target",
+				"target_percent"
+			],
+			[
+				"assmbled",
+				"assembled_quantity"
+			],
+			[
+				"sets",
+				"set.seed	{base}"
+			],
+			[
+				"Cust",
+				"Customer_Items"
+			],
+			[
+				"cust",
+				"customer_type_id"
+			],
+			[
+				"custer",
+				"customer_type_desc"
+			],
+			[
+				"item_type",
+				"item_type_id"
+			],
+			[
+				"Item",
+				"Item_Types"
+			],
+			[
+				"expec",
+				"expect_error"
+			],
+			[
+				"now",
+				"now_s"
+			],
+			[
+				"DB",
+				"DBIConnection"
+			],
+			[
+				"fix_date",
+				"fix_date_time"
+			],
+			[
+				"dbpre",
+				"db_prep_nulls"
+			],
+			[
+				"tagg",
+				"tagged_items"
+			],
+			[
+				"tag",
+				"tag_percentage"
+			],
+			[
+				"below",
+				"below_run"
+			],
+			[
+				"lower",
+				"lower_bound"
+			],
+			[
+				"upper",
+				"upper_bound"
+			],
+			[
+				"percent",
+				"percent_tagged"
+			],
+			[
+				"itme",
+				"item_number"
+			],
+			[
+				"of",
+				"offset	{stats}"
+			],
+			[
+				"tar",
+				"target_percent"
+			],
+			[
+				"recover",
+				"recover_cred"
+			],
+			[
+				"days",
+				"days_back"
+			],
+			[
+				"si",
+				"size_var"
+			],
+			[
+				"selecte",
+				"selected_y_variable"
+			],
+			[
+				"date",
+				"date_issued"
+			],
+			[
+				"query",
+				"query_time"
+			],
+			[
+				"end",
+				"end_period_date"
+			],
+			[
+				"cnts.inv",
+				"cnts.invoice_id"
+			],
+			[
+				"json",
+				"jsonchg"
+			],
+			[
+				"cycle",
+				"cycle_sql"
+			],
+			[
+				"invoice",
+				"invoice_id"
+			],
+			[
+				"scan",
+				"scan_id"
+			],
+			[
+				"endev",
+				"end_event_id"
+			],
+			[
+				"start",
+				"start_evt"
+			],
+			[
+				"insert",
+				"insert_conn"
+			],
+			[
+				"valid",
+				"valid_psuedo"
+			],
+			[
+				"need",
+				"need_psuedo_soil"
+			],
+			[
+				"n_tag_",
+				"n_tag_event_id"
+			],
+			[
+				"n_scan",
+				"n_scan_date_time"
+			],
+			[
+				"diff",
+				"difftime"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".travis.yml",
+			"settings":
+			{
+				"buffer_size": 122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".Rbuildignore",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/knitr/knitr-Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/knitr/knitr-Markdown.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/knitr/knitr-Markdown.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"Git: diff",
+				"Git: Diff All Files"
+			],
+			[
+				"Git: difft",
+				"Git: Diff Tool All"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"choo",
+				"R-Box: Choose Program"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"cho",
+				"R-Box: Choose Program"
+			],
+			[
+				"Git: n",
+				"Git: New Branch"
+			],
+			[
+				"rext",
+				"Set Syntax: R Extended"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"Git: diffto",
+				"Git: Diff Tool All"
+			],
+			[
+				"Git: stat",
+				"Git: Status"
+			],
+			[
+				"Gitgutter",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"Gitgut",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"gitgut",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"Git: st",
+				"Git: Status"
+			],
+			[
+				"packageu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"Git: change",
+				"Git: Change Branch"
+			],
+			[
+				"new ",
+				"Git: New Branch"
+			],
+			[
+				"Git: de",
+				"Git: Delete Branch"
+			],
+			[
+				"Git: meg",
+				"Git: Merge Branch"
+			],
+			[
+				"Git: che",
+				"Git: Change Branch"
+			],
+			[
+				"Git: new",
+				"Git: New Branch"
+			],
+			[
+				"Git: push",
+				"Git: Push"
+			],
+			[
+				"choos",
+				"R-Box: Choose Program"
+			],
+			[
+				"rea",
+				"File: Rename"
+			],
+			[
+				"bran",
+				"Git: New Branch"
+			],
+			[
+				"chos",
+				"R-Box: Choose Program"
+			],
+			[
+				"stash c",
+				"Git: Stash Changes"
+			],
+			[
+				"Git: diffa",
+				"Git: Diff Tool All"
+			],
+			[
+				"Git: mer",
+				"Git: Merge Branch"
+			],
+			[
+				"Git: merge",
+				"Git: Merge Branch"
+			],
+			[
+				"Git: bra",
+				"Git: Change Branch"
+			],
+			[
+				"Git: stash",
+				"Git: Stash Changes"
+			],
+			[
+				"stash",
+				"Git: Stash Apply"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"re",
+				"Set Syntax: R Extended"
+			],
+			[
+				"Git: add",
+				"Git: Add..."
+			],
+			[
+				"ch",
+				"R-Box: Choose Program"
+			],
+			[
+				"Git: br",
+				"Git: New Branch"
+			],
+			[
+				"Git: dif",
+				"Git: Diff All Files"
+			],
+			[
+				"Git: l",
+				"Git: Log All"
+			],
+			[
+				"Git: log",
+				"Git: Log All"
+			],
+			[
+				"Git: lo",
+				"Git: Log All"
+			],
+			[
+				"Git: check",
+				"Git: Checkout Current File"
+			],
+			[
+				"choose",
+				"R-Box: Choose Program"
+			],
+			[
+				"mvoe",
+				"File: Move"
+			],
+			[
+				"rex",
+				"Set Syntax: R Extended"
+			],
+			[
+				"Git: stas",
+				"Git: Stash Changes"
+			],
+			[
+				"Git: bran",
+				"Git: Change Branch"
+			],
+			[
+				"Git: nr",
+				"Git: New Branch"
+			],
+			[
+				"syntax rex",
+				"Set Syntax: R Extended"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Git: ne",
+				"Git: New Branch"
+			],
+			[
+				"Git: pus",
+				"Git: Push"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 568.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sumblime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sumblime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/adamjackman/Development/acjackmanr"
+	],
+	"file_history":
+	[
+		"/Users/adamjackman/.bash_profile",
+		"/Users/adamjackman/Development/dbezr/R/cred.R",
+		"/Users/adamjackman/Development/dbezr/tests/testthat/test-zzz_codestyle.R",
+		"/Users/adamjackman/Development/dbezr/DESCRIPTION",
+		"/Users/adamjackman/Development/dbezr/R/zzz.R",
+		"/Users/adamjackman/Development/dbezr/R/db.R",
+		"/Users/adamjackman/Development/dbezr/tests/testthat/test_db.R",
+		"/Users/adamjackman/Development/dbezr/tests/testthat/test_cred.R",
+		"/Users/adamjackman/Development/dbezr/R/db_options.R",
+		"/Users/adamjackman/Development/dbezr/tests/testthat/test_qlog.R",
+		"/Users/adamjackman/Development/dbezr/.travis.yml",
+		"/Users/adamjackman/Development/dbezr/tests/testthat/test_print_cred.R",
+		"/Users/adamjackman/Development/dbezr/tests/testthat/test_cred_file.R",
+		"/Users/adamjackman/Development/dbezr/file.json",
+		"/Users/adamjackman/Development/dbezr/tests/testthat/test_cred_json.R",
+		"/Users/adamjackman/Development/dbezr/R/option_parse.R",
+		"/Users/adamjackman/Development/dbezr/NAMESPACE",
+		"/Users/adamjackman/Development/dbezr/dbezr.sublime-project",
+		"/Users/adamjackman/Development/dbezr/.Rbuildignore",
+		"/Users/adamjackman/Development/dbezr/README.md",
+		"/Users/adamjackman/Development/dbezr/LICENCE",
+		"/Users/adamjackman/Development/dbezr/dbezr.Rproj",
+		"/Users/adamjackman/Development/MilumAnalysis/DESCRIPTION",
+		"/Users/adamjackman/Development/MilumAnalysis/R/zzz.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dv_aaa_table_structue.R",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-db_connections.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dv_objects.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/db_access.R",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-db_prep.R",
+		"/Users/adamjackman/Development/MilumExploration/v2DataValidation/checks_2016-01-14.R",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-zzz_codestyle.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dv_last_cycle_incomplete.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dv_cycles_misassigned_to_invoices.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dv_run_data_checks.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dv_no_tag_citem_0.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dv_multiple_invoice_contents_entries.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dv_tag_matches_no_item.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dv_ntags_shpd_gt_asmbld_qty.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dv_invoices_without_tags.R",
+		"/Users/adamjackman/Development/MilumAnalysis/man/dbchk.Rd",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-dbchk_results.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/retrieve_data.R",
+		"/private/var/folders/hv/c7hh59m970zdpq6_s5z27f8h0000gn/T/Rtmpl453IV/MilumAnalysis.Rcheck/00check.log",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-db_check.R",
+		"/Users/adamjackman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/adamjackman/Development/MilumExploration/API Scratch/untitled.json",
+		"/Users/adamjackman/.gitlogger",
+		"/Users/adamjackman/Development/MilumAnalysis/.lintr",
+		"/Users/adamjackman/Development/MilumExploration/updateDBv2/correctDBIssues.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/chargeback.R",
+		"/Users/adamjackman/Development/MilumExploration/gen_data/gen_data.R",
+		"/Users/adamjackman/Development/useMilumAnalysis.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/find_ids.R",
+		"/Users/adamjackman/Dump/Del_Scott_2016-01-12T15-19-38.R",
+		"/Users/adamjackman/Development/MilumExploration/tag_percentage/calculate_min_tagging_percentage.Rmd",
+		"/Users/adamjackman/Development/MilumAnalysis/R/query_building.R",
+		"/Users/adamjackman/Development/MilumExploration/replacement_cost_query/repaclement_cost_query.R",
+		"/Users/adamjackman/Dropbox/Dump/Dr Scott 2016-01-11.R",
+		"/Users/adamjackman/Dropbox/Dump/sx_type2_items.txt",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat.R",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-qry_insert.R",
+		"/Users/adamjackman/.milumdb.json",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-month_start_end.R",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-chargeback_range_select.R",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-query_building.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/clean_data.R",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-fix_date.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/tag_percentage.R",
+		"/Users/adamjackman/Development/MilumExploration/tag_percentage/calculate_min_tagging_percentage.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/gen_data.R",
+		"/Users/adamjackman/Development/MilumAnalysis/NAMESPACE",
+		"/Users/adamjackman/Development/MilumExploration/item555518_report/item555518.Rmd",
+		"/Users/adamjackman/Development/MilumExploration/item555518_report/item555518.R",
+		"/Users/adamjackman/Development/MilumExploration/updateDBv2/regen_cycles.sql",
+		"/Users/adamjackman/Development/MilumExploration/dbTransactions/transactions_2016_01_01.R",
+		"/Users/adamjackman/Development/MilumExploration/dbTransactions/transactions_2016-01-01.R",
+		"/private/var/folders/hv/c7hh59m970zdpq6_s5z27f8h0000gn/T/RtmpVGazzM/MilumAnalysis.Rcheck/00install.out",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dv_single_cycle_incomplete.R",
+		"/Users/adamjackman/Development/MilumAnalysis/vignettes/data_checks.Rmd",
+		"/Users/adamjackman/Development/MilumAnalysis/vignettes/data_checks.html",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-fix_date_time.R",
+		"/Users/adamjackman/Development/MilumExploration/dignity_verification/2015-12-12.R",
+		"/Users/adamjackman/Development/MilumExploration/dignity_verification/invoice_tagging.R",
+		"/Users/adamjackman/Development/MilumExploration/updateDBv2/replacement_charges.sql",
+		"/Users/adamjackman/Development/MilumAnalysis/R/get_info.R",
+		"/Users/adamjackman/Development/MilumAnalysis/MilumExploration/scratch.R",
+		"/Users/adamjackman/Development/MilumShiny/config/milumdb.json",
+		"/Users/adamjackman/Development/MilumExploration/updateDBv2/scratch_2015-12-12T19-05-36.R",
+		"/Users/adamjackman/Development/MilumExploration/updateDBv2/scratch_2015-12-05T14-43-48.R",
+		"/Users/adamjackman/Development/MilumExploration/updateDBv2/scratch_2015-12-03T19-24-21.R",
+		"/Users/adamjackman/Development/MilumExploration/updateDBv2/List of Queries",
+		"/Users/adamjackman/Development/MilumAnalysis/R/dvcheck_flagged_invoices_with_tags.R",
+		"/Users/adamjackman/Development/MilumExploration/v2DataValidation/cycles_misassigned_to_invoices.R",
+		"/Users/adamjackman/Development/MilumExploration/Chargeback_Customer_Item_Graph/citems_graph.R",
+		"/Users/adamjackman/Development/MilumExploration/v2DataValidation/dvcheck_cycles_misassigned_to_invoices.R",
+		"/Users/adamjackman/Development/MilumAnalysis/R/formatting.R",
+		"/Users/adamjackman/.ssh/config",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-fmt_ratio.R",
+		"/Users/adamjackman/Development/MilumExploration/chargeback_table/chargeback_table.R",
+		"/Users/adamjackman/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/adamjackman/Library/Application Support/Sublime Text 3/Packages/User/R Extended.sublime-settings",
+		"/Users/adamjackman/Development/MilumAnalysis/tests/testthat/test-codestyle.R",
+		"/Users/adamjackman/Development/MilumExploration/Customer_Item_Join/customer_item_join.R",
+		"/Users/adamjackman/Development/MilumExploration/README.md",
+		"/Users/adamjackman/Development/MilumAnalysis/MilumAnalysis.sublime-project",
+		"/Users/adamjackman/Development/MilumExploration/Customer_Item_Join/customer_item_join_troubleshoot.R",
+		"/Users/adamjackman/Development/MilumExploration/Customer_Item_Join/unmatchedIds.sql",
+		"/Users/adamjackman/Development/MilumAnalysis/dv_cycles_misassigned_to_invoices.R",
+		"/Users/adamjackman/Development/MilumExploration/Customer_Item_Join/scratch.R",
+		"/Users/adamjackman/github",
+		"/Users/adamjackman/Development/MilumAnalysis/man/db_date.Rd",
+		"/Users/adamjackman/.Rprofile",
+		"/Users/adamjackman/Development/MilumAnalysis/R/calculate_loess.R",
+		"/Users/adamjackman/Development/MilumAnalysis/man/calc_smooth.Rd",
+		"/Users/adamjackman/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/adamjackman/Development/MilumAnalysis/man/fix_invoice_date_format.Rd",
+		"/Users/adamjackman/Development/MilumAnalysis/man/gi_customers.Rd",
+		"/Users/adamjackman/Development/MilumAnalysis/plot_inv_scatter.R",
+		"/Users/adamjackman/Development/MilumExploration/LOESS_Calculation/loess.R",
+		"/Users/adamjackman/Development/MilumAnalysis/.gitignore",
+		"/Users/adamjackman/.gitignore",
+		"/Users/adamjackman/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/adamjackman/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/adamjackman/Development/MilumAnalysis/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/Users/adamjackman/Development/MilumAnalysis/README.md",
+		"/Users/adamjackman/Development/tst.dbcred",
+		"/Users/adamjackman/Library/Application Support/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/Users/adamjackman/Library/Application Support/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/adamjackman/Development/MilumAnalysis/R",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"travis_ci_test",
+			"dbezr",
+			"postgres",
+			"root",
+			":\n",
+			"cassandra",
+			"baz",
+			"DBEZR_TEST_POSTGRES",
+			"foo",
+			"DBEZR_TEST_POSTGRES",
+			"skip",
+			"=",
+			"fail",
+			"DBEZR_TEST_POSTGRES",
+			"adamjackman",
+			"dbezr",
+			"travis_ci_test",
+			":",
+			"\"",
+			"engine",
+			"PostgreSQL",
+			"3306",
+			"cred",
+			"MySQL",
+			"fail",
+			"skip",
+			"cred_json",
+			"json_string",
+			"assertive",
+			"db_credentials",
+			"assert_is_inherited_from",
+			"db_credentials",
+			"connections",
+			"test_database_mysql",
+			"MySQL",
+			"create_con",
+			"connect",
+			"disconnect_con",
+			"},\n",
+			"create_con",
+			"disconnect_con",
+			"create_con",
+			"con",
+			"disconnect_con",
+			"engine",
+			"disconnect_con",
+			"message",
+			"cred_env",
+			"test_database",
+			"json_string",
+			"test_database",
+			"DBEZR_TEST_MYSQL",
+			"test_database",
+			"sjson_mysql",
+			"json_string",
+			"creat_con",
+			"test_database_mysql",
+			"testthat",
+			"test_database",
+			"sjson_mysql",
+			"create_con",
+			"test_database_mysql",
+			"rm_db_id",
+			"x",
+			"rm_db_all",
+			"registered_dbs",
+			"op.milumanalysis",
+			"op.dbezr",
+			"dbezr.debug_queries",
+			"milumanalysis",
+			"ilumanalysis",
+			"op.milumanalysis",
+			"milumanalysis.debug_queries",
+			"op.milumanalysis",
+			"registered_dbs",
+			"expect_equal",
+			"qlog_loud",
+			"crd",
+			"updated_cred",
+			"clst",
+			"ezrdb",
+			"dbezr",
+			"ezrdb",
+			"assert_is_character",
+			"Retrive",
+			"ezrdb",
+			"FALSE",
+			"file",
+			"port",
+			"dbname",
+			"clst",
+			"cred_json",
+			"tmp",
+			"db_credentials",
+			"db_credentials_json",
+			"cred_json",
+			" <-",
+			"TRUE",
+			".qlog",
+			"force_log",
+			".qlog",
+			"TRUE",
+			"U",
+			"NA",
+			".show_warn",
+			"show_warn",
+			"FALSE",
+			"j",
+			"js",
+			"cred_json",
+			"skip()",
+			"()",
+			"optional_fields",
+			"j",
+			".show_warn",
+			".qlog = NA",
+			".qlog",
+			"NULL",
+			"force_log",
+			"TRUE",
+			".show_warn",
+			"FALSE",
+			"no",
+			"yes",
+			"show_warn",
+			".show_warn",
+			"yes",
+			"FALSE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			",",
+			"invoice_bill_only",
+			"ggplot2::element_blank",
+			"pdat"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".travis.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".Rbuildignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 292.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.settings_documentation_panel":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "acjackmanr.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".tr",
+				".travis.yml"
+			],
+			[
+				"z",
+				"tests/testthat/test-zzz_codestyle.R"
+			],
+			[
+				"tests",
+				"tests/testthat/test_connections.R"
+			],
+			[
+				"trav",
+				".travis.yml"
+			],
+			[
+				"cred",
+				"R/cred.R"
+			],
+			[
+				"d",
+				"DESCRIPTION"
+			],
+			[
+				"cre",
+				"R/cred.R"
+			],
+			[
+				"test",
+				"tests/testthat.R"
+			],
+			[
+				"testc",
+				"tests/testthat/test_cred.R"
+			],
+			[
+				"testpritn",
+				"tests/testthat/test_print_cred.R"
+			],
+			[
+				"te",
+				"tests/testthat.R"
+			],
+			[
+				"tescr",
+				"tests/testthat/test_cred.R"
+			],
+			[
+				"print",
+				"tests/testthat/test_print_cred.R"
+			],
+			[
+				"des",
+				"DESCRIPTION"
+			],
+			[
+				"name",
+				"NAMESPACE"
+			],
+			[
+				"db",
+				"tests/testthat/test-db_credentials.R"
+			],
+			[
+				"c",
+				"R/cred.R"
+			],
+			[
+				"db_ch",
+				"tests/testthat/test-db_check.R"
+			],
+			[
+				"desc",
+				"DESCRIPTION"
+			],
+			[
+				"zz",
+				"R/zzz.R"
+			],
+			[
+				"dbo",
+				"R/dv_objects.R"
+			],
+			[
+				"testdb",
+				"tests/testthat/test-db_prep.R"
+			],
+			[
+				"dbpr",
+				"tests/testthat/test-db_prep.R"
+			],
+			[
+				"qry",
+				"R/query_building.R"
+			],
+			[
+				"aaa",
+				"R/dv_aaa_table_structue.R"
+			],
+			[
+				"q",
+				"R/query_building.R"
+			],
+			[
+				"dvaa",
+				"R/dv_aaa_table_structue.R"
+			],
+			[
+				"cycles",
+				"R/dv_cycles_misassigned_to_invoices.R"
+			],
+			[
+				"mul",
+				"R/dv_multiple_invoice_contents_entries.R"
+			],
+			[
+				"not",
+				"R/dv_no_tag_citem_0.R"
+			],
+			[
+				"dv",
+				"R/dv_objects.R"
+			],
+			[
+				"rund",
+				"R/dv_run_data_checks.R"
+			],
+			[
+				"tagch",
+				"R/dv_tag_matches_no_item.R"
+			],
+			[
+				"run",
+				"R/dv_run_data_checks.R"
+			],
+			[
+				"mu",
+				"R/dv_multiple_invoice_contents_entries.R"
+			],
+			[
+				"rtv",
+				"R/retrieve_data.R"
+			],
+			[
+				"lint",
+				".lintr"
+			],
+			[
+				"zzz",
+				"tests/testthat/test-zzz_codestyle.R"
+			],
+			[
+				"dvchec",
+				"R/dv_run_data_checks.R"
+			],
+			[
+				"mult",
+				"R/dv_multiple_invoice_contents_entries.R"
+			],
+			[
+				"tag",
+				"R/dv_invoices_without_tags.R"
+			],
+			[
+				"test_c",
+				"tests/testthat/test-zzz_codestyle.R"
+			],
+			[
+				"dvg",
+				"R/dv_invoices_without_tags.R"
+			],
+			[
+				"corr",
+				"~/Development/MilumExploration/updateDBv2/correctDBIssues.R"
+			],
+			[
+				"ch",
+				"R/chargeback.R"
+			],
+			[
+				"muli",
+				"R/dv_multiple_invoice_contents_entries.R"
+			],
+			[
+				"dv_",
+				"R/dv_tag_matches_no_item.R"
+			],
+			[
+				"runda",
+				"R/dv_run_data_checks.R"
+			],
+			[
+				"cor",
+				"~/Development/MilumExploration/updateDBv2/correctDBIssues.R"
+			],
+			[
+				"find",
+				"R/find_ids.R"
+			],
+			[
+				"query",
+				"R/query_building.R"
+			],
+			[
+				"cha",
+				"R/chargeback.R"
+			],
+			[
+				"dba",
+				"R/db_access.R"
+			],
+			[
+				"testqr",
+				"tests/testthat/test-qry_insert.R"
+			],
+			[
+				"testch",
+				"tests/testthat/test-chargeback_range_select.R"
+			],
+			[
+				"moth",
+				"tests/testthat/test-month_start_end.R"
+			],
+			[
+				"chr",
+				"tests/testthat/test-chargeback_range_select.R"
+			],
+			[
+				"charge",
+				"R/chargeback.R"
+			],
+			[
+				"que",
+				"tests/testthat/test-query_building.R"
+			],
+			[
+				"clean",
+				"R/clean_data.R"
+			],
+			[
+				"char",
+				"tests/testthat/test-chargeback_range_select.R"
+			],
+			[
+				"dab",
+				"R/db_access.R"
+			],
+			[
+				"testtha",
+				"tests/testthat.R"
+			],
+			[
+				"nam",
+				"NAMESPACE"
+			],
+			[
+				"last",
+				"R/dv_last_cycle_incomplete.R"
+			],
+			[
+				"dv_si",
+				"R/dv_single_cycle_incomplete.R"
+			],
+			[
+				"dvlas",
+				"R/dv_last_cycle_incomplete.R"
+			],
+			[
+				"",
+				"R/query_building.R"
+			],
+			[
+				"datach",
+				"vignettes/data_checks.html"
+			],
+			[
+				"datache",
+				"vignettes/data_checks.Rmd"
+			],
+			[
+				"testf",
+				"tests/testthat/test-fix_date_time.R"
+			],
+			[
+				"testfix",
+				"tests/testthat/test-fix_date.R"
+			],
+			[
+				"carge",
+				"R/chargeback.R"
+			],
+			[
+				"charg",
+				"R/chargeback.R"
+			],
+			[
+				"da",
+				"R/db_access.R"
+			],
+			[
+				"git",
+				"R/get_info.R"
+			],
+			[
+				"fi",
+				"R/find_ids.R"
+			],
+			[
+				"gi",
+				"R/get_info.R"
+			],
+			[
+				"retriv",
+				"R/retrieve_data.R"
+			],
+			[
+				"invoi",
+				"R/dv_invoices_without_tags.R"
+			],
+			[
+				"dvr",
+				"R/dv_run_data_checks.R"
+			],
+			[
+				"de",
+				"DESCRIPTION"
+			],
+			[
+				"dbac",
+				"R/db_access.R"
+			],
+			[
+				"gq",
+				"R/dv_ntags_shpd_gt_asmbld_qty.R"
+			],
+			[
+				"fmt",
+				"R/formatting.R"
+			],
+			[
+				"fo",
+				"R/formatting.R"
+			],
+			[
+				"retr",
+				"R/retrieve_data.R"
+			],
+			[
+				"get",
+				"R/get_info.R"
+			],
+			[
+				"clea",
+				"R/clean_data.R"
+			],
+			[
+				".lin",
+				".lintr"
+			],
+			[
+				"dvrun",
+				"R/dv_run_data_checks.R"
+			],
+			[
+				"dvrunda",
+				"R/dv_run_data_checks.R"
+			],
+			[
+				"dvcycles",
+				"R/dv_cycles_misassigned_to_invoices.R"
+			],
+			[
+				"cel",
+				"R/clean_data.R"
+			],
+			[
+				"cga",
+				"R/chargeback.R"
+			],
+			[
+				"nt",
+				"R/dv_ntags_shpd_gt_asmbld_qty.R"
+			],
+			[
+				"runc",
+				"R/dv_run_data_checks.R"
+			],
+			[
+				"ret",
+				"R/retrieve_data.R"
+			],
+			[
+				"dbda",
+				"man/db_date.Rd"
+			],
+			[
+				"data",
+				"R/clean_data.R"
+			],
+			[
+				"r/",
+				"R/chargeback.R"
+			],
+			[
+				"test-",
+				"tests/testthat/test-query_building.R"
+			],
+			[
+				"retrive",
+				"R/retrieve_data.R"
+			],
+			[
+				"calc",
+				"R/calculate_loess.R"
+			],
+			[
+				"fixi",
+				"man/fix_invoice_date_format.Rd"
+			],
+			[
+				"custo",
+				"man/gi_customers.Rd"
+			],
+			[
+				"testt",
+				"tests/testthat.R"
+			],
+			[
+				"getinf",
+				"R/get_info.R"
+			],
+			[
+				"qu",
+				"R/query_building.R"
+			],
+			[
+				"build",
+				"R/query_building.R"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"ds",
+				"DESCRIPTION"
+			],
+			[
+				"qryb",
+				"R/query_building.R"
+			],
+			[
+				"qur",
+				"R/query_building.R"
+			],
+			[
+				"quer",
+				"R/query_building.R"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"shi",
+				"~/.ssh/MilumShiny.sublime-project"
+			],
+			[
+				"",
+				"~/Development/MilumAnalysis/MilumAnalysis.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

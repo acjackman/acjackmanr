@@ -3,10 +3,11 @@ Title: Personal Package of Adam Jackman
 Version: 0.0.5
 Authors@R: person("Adam", "Jackman", email = "adam@acjackman.com", role = c("aut", "cre"))
 Description: Personal functions of Adam Jackman.
-Depends:
+Depends: 
     R (>= 3.2.0)
-Imports:
+Imports: 
     stringr
 License: MIT + file LICENSE
 LazyData: true
 RoxygenNote: 5.0.0
+Suggests: testthat
